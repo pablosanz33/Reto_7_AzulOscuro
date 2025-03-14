@@ -56,7 +56,7 @@ Generación de variables derivadas necesarias para el análisis.
 
 - Evaluación del rendimiento del modelo con métricas relevantes.
 
-**Pediccion.py **
+**Pediccion.py**
 
 -Aplicación del modelo entrenado sobre nuevos datos.
 
