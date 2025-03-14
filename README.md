@@ -27,7 +27,7 @@ Importar el archivo `entorno_AZUL_OSCURO_RETO_7.yml` con el siguiente comando en
 
 ```bash
 conda env create --name RETO_07 --file entorno_AZUL_OSCURO_RETO_7.yml
-
+```
 ### Descripción de los Scripts
 
 #El proyecto se compone de varios scripts y notebooks organizados para llevar a cabo el análisis de datos, modelado y visualización de resultados. A continuación, se describe el propósito de cada uno:
